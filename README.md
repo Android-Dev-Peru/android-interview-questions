@@ -3,48 +3,60 @@ Android Interview Questions
 
 *Balotario de preguntas para entrevistas técnicas para el puesto de Desarrollador Android*
 
-# Temario :
+## Temario :
 
-## Fundamentos:
+### Fundamentos:
 
-•⁠  ⁠POO (pilares)
-•⁠  ⁠⁠Patrones de diseño
-•⁠  ⁠⁠SOLID
-•⁠  ⁠⁠Marcos de trabajo ágil
-•⁠  ⁠⁠git
-•⁠  ⁠⁠testing
-•⁠  ⁠⁠CI / CD
+- POO (pilares)
+- Patrones de diseño
+- SOLID
+- ⁠⁠Marcos de trabajo ágil
+- ⁠⁠git
+- ⁠⁠testing
+- ⁠⁠CI / CD
 
-## Algoritmos:
+### Algoritmos:
 
 - Complejidad algorítmica + live coding
 
-## Lenguajes (java / Kotlin)
+### Lenguajes (java / Kotlin)
 
-•⁠  ⁠inmutabilidad (var / val)
-•⁠  ⁠⁠modificadores de visibilidad 
-•⁠  ⁠⁠final / open
-•⁠  ⁠⁠static
-•⁠  ⁠⁠extension functions
-•⁠  ⁠⁠overload / overrides
-•⁠  ⁠⁠primitive types
-•⁠  ⁠⁠nulabilidad
-•⁠  ⁠⁠etc etc
+- ⁠inmutabilidad (var / val)
+- ⁠⁠modificadores de visibilidad
+- ⁠⁠final / open
+- ⁠⁠static
+- ⁠⁠extension functions
+- ⁠⁠overload / overrides
+- ⁠⁠primitive types
+- ⁠⁠nulabilidad⁠⁠
+- Ksp
 
-## Android:
+### Android:
 
-•⁠  ⁠lifecycles
-•⁠  ⁠⁠networking
-•⁠  ⁠⁠persistence
-•⁠  ⁠⁠architecture components
-•⁠  ⁠⁠MVVM
-•⁠  ⁠⁠navigation
-•⁠  ⁠⁠multi-threading
-•⁠  ⁠⁠algo de Compose?
-•⁠  ⁠⁠dependency injection
-•⁠  ⁠⁠security
+- ⁠lifecycles
+- ⁠⁠networking
+- ⁠⁠persistence
+- ⁠⁠architecture components
+- ⁠⁠MVVM
+- navigation
+- ⁠⁠multi-threading
+- ⁠⁠algo de Compose?
+- ⁠⁠dependency injection
+- ⁠⁠security
+- testing
 
-# Referencias
+### Gradle:
+
+- Tasks, custom task
+- Gradle cmd, tasks útiles en android
+- Convention plugins
+- Gradle Version Catalog
+- Optimizar build time
+
+
+### Architecture :
+
+## Referencias
 
 - https://developer.android.com/
 
